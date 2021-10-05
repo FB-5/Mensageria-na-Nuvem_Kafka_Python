@@ -14,4 +14,4 @@ Objetivos de conhecimento:
 
 INSTRUTOR
 
-✔️ Hugo de Oliveira Alves (Intrutor DIO).
+✔️ Hugo de Oliveira Alves (Instrutor DIO).

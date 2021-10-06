@@ -10,7 +10,7 @@ Objetivos de conhecimento:
 - Micro Serviços
 - Mensageria
 - Kafka as a service
-- Lab: Phyton + Kafka.
+- Lab: Python + Kafka.
 
 INSTRUTOR
 
